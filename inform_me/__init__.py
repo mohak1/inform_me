@@ -4,7 +4,7 @@ from subprocess import Popen, check_output
 from threading import Timer
 
 #GLOBAL VARIABLES
-__version__ = '0.1'
+__version__ = '0.1.2'
 m=0
 s=0
 msg=''

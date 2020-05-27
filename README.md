@@ -1,6 +1,6 @@
 # inform_me 
 
-[![inform_me](https://img.shields.io/badge/release-v0.1.1-993BD8.svg)](https://shields.io/)
+[![inform_me](https://img.shields.io/badge/release-v0.1.2-993BD8.svg)](https://shields.io/)
 [![Build](https://img.shields.io/badge/Build-Passing-1abc9c.svg)](https://shields.io/)
 [![OS](https://img.shields.io/badge/OS-Linux-1abb0c.svg)](https://shields.io/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
