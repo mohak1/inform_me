@@ -1,10 +1,20 @@
 # inform_me 
 
+[![inform_me](https://img.shields.io/badge/release-v0.1.0-993BD8.svg)](https://shields.io/)
+[![Build](https://img.shields.io/badge/Build-Passing-1abc9c.svg)](https://shields.io/)
+[![OS](https://img.shields.io/badge/OS-Linux-1abb0c.svg)](https://shields.io/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Format](https://img.shields.io/badge/Format-Wheel-709DF6.svg)](https://shields.io/)
+[![Status](https://img.shields.io/badge/Status-Stable-1abc9c.svg)](https://shields.io/)
+[![Python](https://img.shields.io/badge/Python-3.6-E11E1E.svg)](https://shields.io/)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
 inform_me is an alert raising python library that is specially designed to be used in machine learning projects during the model training stage. It triggers a Sound, Notification Box, and Popup Message alert as soon as it is executed, giving out a notification that the high-computation/time-consuming piece of code (eg. Deep Learning Model training, Web Scraper, etc) above it was successfully executed. The aim of this library is to automatically notify the developer as soon as a time-consuming program execution gets completed. As of now, this library only supports Linux distributions and does not work on Windows or macOS. It makes use of carefully selected Python's Standard Library modules which are efficient and do not stall the execution of the running program. Supports Python 3.6 and later but should work on previous versions of Python 3.x
 
 ## Installation
 
-To install this package, use the following [pip](https://pip.pypa.io/inform-me/) command from the terminal:
+To install this package, use the following [pip](https://pypi.org/project/inform-me/) command from the terminal:
 
 ```bash
 pip install inform_me
@@ -51,4 +61,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
